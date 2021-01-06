@@ -4,6 +4,15 @@
 
 Create a file ".env.local" at the root directory, and declare all the keys.
 
+```
+REACT_APP_FIREBASE_API_KEY=<your_api_key>
+REACT_APP_FIREBASE_AUTH_DOMAIN=<your_auth_domain>
+REACT_APP_FIREBASE_PROJECT_ID=<your_project_id>
+REACT_APP_FIREBASE_STORAGE_BUCKET=<your_storage_bucket>
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID=<your_messaging_sender_id>
+REACT_APP_FIREBASE_APP_ID=<your_app_id>
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
