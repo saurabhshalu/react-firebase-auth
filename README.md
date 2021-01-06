@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-##Initial Setup
+## Initial Setup
+
 Create a file ".env.local" at the root directory, and declare all the keys.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
